@@ -1,0 +1,26 @@
+.login{
+    text-align: center;
+}
+.Registration{
+    margin-left:97px;
+    text-align: center;
+}
+
+@media only screen and (max-width: 345px) {
+.userName{
+    width: 70%;
+    text-align: center;
+    margin-left: 45px;
+    border: 1px solid brown;
+    border-block-start-width: 3px;
+    border-block-end-width: 3px;
+}
+.passWord{
+    width: 70%;
+    text-align: center;
+    margin-left: 45px;
+    border: 1px solid brown;
+    border-block-start-width: 3px;
+    border-block-end-width: 3px;   
+}
+}

@@ -1,0 +1,52 @@
+h4{
+    text-align: center;
+    /* margin-left: 183px;
+    font-size: 20px; */
+}
+label{
+    text-align: center;
+}
+input.button{
+    width: 100px;
+    margin-left: 112px;
+}
+a{
+    text-align: center;
+    margin-left: -66px;
+    font-size: 20px;
+}
+
+@media only screen and (max-width: 345px) {
+    .userName{
+        width: 70%;
+        text-align: center;
+        margin-left: 45px;
+        border: 1px solid brown;
+        border-block-start-width: 3px;
+        border-block-end-width: 3px;
+    }
+    .passWord{
+        width: 70%;
+        text-align: center;
+        margin-left: 45px;
+        border: 1px solid brown;
+        border-block-start-width: 3px;
+        border-block-end-width: 3px;   
+    }
+        .name{
+            width: 70%;
+            text-align: center;
+            margin-left: 45px;
+            border: 1px solid brown;
+            border-block-start-width: 3px;
+            border-block-end-width: 3px;
+        }
+        .eMail{
+            width: 70%;
+            text-align: center;
+            margin-left: 45px;
+            border: 1px solid brown;
+            border-block-start-width: 3px;
+            border-block-end-width: 3px;   
+        }
+        }

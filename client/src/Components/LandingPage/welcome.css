@@ -1,0 +1,25 @@
+#welcomeText{
+    text-align: center;
+    margin-top: 101px;
+    font-size: 27pt;
+/* margin-left: 12px;
+font-size: 20px; */
+}
+
+@media only screen and (max-width: 345px) {
+.button.success{
+    margin-left: 102px;
+    width: 100px;
+    border: 1px rgb(235, 240, 240);
+    height: 33px;
+    color: whitesmoke !important;
+    margin-top: inherit;
+}
+.button{
+    margin-top: 88px;
+    margin-left: 100px;
+    width: 100px;
+    border: 1px rgb(235, 240, 240);
+    height: 33px;
+}
+}
